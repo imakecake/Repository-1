@@ -1,10 +1,17 @@
 # Repository-1
+
 My first repository for understanding how git works
+
 PROJECT TITLE: Курсовая работа по программированию.
+
 PURPOSE OF PROJECT: Закрепить навыки полученные в ходе изучени дисциплины программирование.
+
 VERSION or DATE: 27.12.2016г.
+
 HOW TO START THIS PROJECT: запустить класс main() с пустым полем параметров.
+
 AUTHORS: Жиленков И.В.
+
 USER INSTRUCTIONS: Запуск программы с нуля на примере IDE BlueJ:
 1. сохранить проект;
 2. открыть проект двойным кликом на package.bluej;
