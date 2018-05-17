@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=f
+comment0.target=boolean\ accept(java.io.File)
+comment1.params=
+comment1.target=java.lang.String\ getDescription()
+numComments=2

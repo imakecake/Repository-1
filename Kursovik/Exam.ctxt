@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Exam()
+comment1.params=id
+comment1.target=Exam(java.lang.String)
+comment10.params=exam
+comment10.target=int\ compareTo(Exam)
+comment2.params=id\ Cipher\ Ball
+comment2.target=Exam(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getId()
+comment4.params=
+comment4.target=java.lang.String\ getCipher()
+comment5.params=
+comment5.target=java.lang.String\ getBall()
+comment6.params=id
+comment6.target=void\ setId(java.lang.String)
+comment7.params=Cipher
+comment7.target=void\ setCipher(java.lang.String)
+comment8.params=Ball
+comment8.target=void\ setBall(java.lang.String)
+comment9.params=ob
+comment9.target=boolean\ equals(java.lang.Object)
+numComments=11

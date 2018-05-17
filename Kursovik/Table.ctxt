@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=exam
+comment0.target=Table(java.util.ArrayList)
+comment1.params=
+comment1.target=int\ getRowCount()
+comment2.params=
+comment2.target=int\ getColumnCount()
+comment3.params=r\ c
+comment3.target=boolean\ isCellEditable(int,\ int)
+comment4.params=
+comment4.target=boolean\ getIsCellEditable()
+comment5.params=b
+comment5.target=void\ setIsCellEditable(boolean)
+comment6.params=b
+comment6.target=boolean\ isEditable(boolean)
+comment7.params=c
+comment7.target=java.lang.String\ getColumnName(int)
+comment8.params=r\ c
+comment8.target=java.lang.Object\ getValueAt(int,\ int)
+comment9.params=aValue\ r\ c
+comment9.target=void\ setValueAt(java.lang.Object,\ int,\ int)
+numComments=10
